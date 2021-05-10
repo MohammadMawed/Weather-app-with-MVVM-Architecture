@@ -21,7 +21,7 @@ We used some concepts like:
 Here are some screenshots: 
 
 ![Screenshot_1620645766](https://user-images.githubusercontent.com/68829790/117672182-e4bb4680-b1a9-11eb-8038-4920d7c3ecb3.png)
-
+====================================================================================
 ![Screenshot_1620645884](https://user-images.githubusercontent.com/68829790/117672172-e2f18300-b1a9-11eb-8523-93dd09cfe6dc.png)
 
 
