@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Weather app With MVVM</string>
+    <string name="homburg">Homburg</string>
+    <string name="_13c">13C°</string>
+    <string name="cloudy">Cloudy</string>
+    <string name="_10_km_h">10 km/h</string>
+    <string name="sunday">Sunday</string>
+    <string name="monday">Monday</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="wind_speed">Wind Speed</string>
+    <string name="current_status">Current Status</string>
+    <string name="wednesday">Wednesday</string>
+</resources>
