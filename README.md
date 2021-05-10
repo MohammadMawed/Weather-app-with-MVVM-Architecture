@@ -8,7 +8,7 @@ About this project:
 
 This project uses a bunch of libraries such:
 
-- Retrofit2 which is basically for transactions.
+- Retrofit2 which is basically for network transactions.
 - Dagger-Hilt for dependency injection library.
 
 We used some concepts like:
