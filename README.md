@@ -16,12 +16,14 @@ We used some concepts like:
 - MVVM as a design pattern
 - Coroutine
 
-=============================================================================
+========================================
 
 Here are some screenshots: 
 
 <img src = "https://user-images.githubusercontent.com/68829790/117672182-e4bb4680-b1a9-11eb-8038-4920d7c3ecb3.png" width = "400">
-====================================================================================
+
+========================================
+
 <img src = "https://user-images.githubusercontent.com/68829790/117672172-e2f18300-b1a9-11eb-8523-93dd09cfe6dc.png" width = "400">
 
 
